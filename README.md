@@ -1,5 +1,5 @@
 # 糖尿病 BRFSS 2021 資料集疾病預測
-
+[streamlit app 連結](https://towelbrodiabetes.streamlit.app/)
 [kaggle 資料集連結](https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset/data)
 
 糖尿病是一種慢性健康狀況，會影響您的身體將食物轉化為能量的方式。糖尿病主要分為三種：1 型、2 型和妊娠期糖尿病。
